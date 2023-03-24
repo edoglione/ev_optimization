@@ -1,0 +1,44 @@
+fieldname;id_amat;descrizione
+tipologia_alimentazione;"13";GNL
+classe_areac;"5";altri paganti
+residenti;"0";non residenti
+tipologia_alimentazione;"8";IBRIDO GASOLIO
+categoria_euro;"2";EURO1
+categoria_veicolo;"1";ALTRO
+tipologia_alimentazione;"2";DIESEL
+veicoli_servizio;"0";veicoli non di servizio
+tipologia_alimentazione;"5";IBRIDO
+classe_areac;"3";paganti residenti
+moto;"1";moto
+categoria_euro;"7";EURO6
+categoria_veicolo;"2";BUS
+esenti;"1";Autorizzati
+classe_areac;"1";autorizzati
+categoria_euro;"1";EURO0
+categoria_euro;"4";EURO3
+categoria_veicolo;"4";PERSONE
+tipologia_alimentazione;"0";NC
+residenti;"1";residente
+categoria_veicolo;"0";NC
+tipologia_alimentazione;"9";METANO
+tipologia_alimentazione;"4";GPL_METANO
+classe_areac;"0";NC
+categoria_euro;"3";EURO2
+tipologia_alimentazione;"10";IBRIDO BENZINA
+classe_areac;"6";moto
+classe_areac;"2";veicoli ecologici
+tipologia_alimentazione;"6";GPL
+tipologia_alimentazione;"1";BENZINA
+categoria_euro;"5";EURO4
+moto;"0";autoveicolo
+tipologia_alimentazione;"11";IBRIDO BENZINA ELETTRICO
+categoria_veicolo;"3";MERCI
+tipologia_alimentazione;"12";IBRIDO GASOLIO ELETTRICO
+classe_areac;"4";paganti veicoli di servizio
+tipologia_alimentazione;"3";ELETTRICO
+veicoli_servizio;"1";veicoli di servizio
+categoria_euro;"0";NC
+tipologia_alimentazione;"14";IDROGENO
+esenti;"0";Non autorizzati
+tipologia_alimentazione;"7";MISCELA
+categoria_euro;"6";EURO5
